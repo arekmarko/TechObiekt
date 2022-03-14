@@ -1,0 +1,10 @@
+Członkowie zespołu:
+ -Markowski Arkadiusz arekmarko8@gmail.com
+ -Burek Maciej 
+
+Temat projektu:
+ 28. Modelowanie bazy danych.
+
+Spis technologii:
+ -AngularJS
+
