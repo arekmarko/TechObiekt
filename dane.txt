@@ -23,8 +23,8 @@ Funkcjonalności:
  -Dodawanie atrybutów 
  -Tworzenie relacji
  -Tworzenie kluczy
- -Dziedziczenie
- -Aplikacja będzie tworzyć skrypt do utworzenia bazy danych MySQL i Oracle
+ -Dziedziczenie (3 rodzaje)
+ -Aplikacja będzie tworzyć skrypt do pobrania lub uruchomienia bezpośrednio w bazie danych MySQL i Oracle
  
 Tematy prac inżynierskich:
  -Internetowy organizer weselny
