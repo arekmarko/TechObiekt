@@ -8,3 +8,11 @@ Temat projektu:
 Spis technologii:
  -AngularJS
 
+Harmonogram pracy:
+ 2. Utworzenie projektu
+ 3. Stworzenie strony
+ 4. Wygląd graficzny projektu
+ 5. Podłączenie z backendem aplikacji
+ 6. Utworzenie warstwy logiki
+ 7. Dopracowywanie funkcjonalności aplikacji
+ 8. Poprawki + oddanie projektu 
