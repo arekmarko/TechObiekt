@@ -1,14 +1,15 @@
 Członkowie zespołu:
- -Markowski Arkadiusz arekmarko8@gmail.com
- -Burek Maciej 
+ -Markowski Arkadiusz arekmarko8@gmail.com 1ID21A
+ -Burek Maciej macko0939@gmail.com 1ID21A
 
 Temat projektu:
- 28. Modelowanie bazy danych.
+ -Modelowanie bazy danych.
 
 Spis technologii:
- -AngularJS
+ -Język C++
 
 Harmonogram pracy:
+ 1. Wybór tematu
  2. Utworzenie projektu
  3. Stworzenie strony
  4. Wygląd graficzny projektu
@@ -16,3 +17,15 @@ Harmonogram pracy:
  6. Utworzenie warstwy logiki
  7. Dopracowywanie funkcjonalności aplikacji
  8. Poprawki + oddanie projektu 
+
+Funkcjonalności:
+ -Tworzenie tabel
+ -Dodawanie atrybutów 
+ -Tworzenie relacji
+ -Tworzenie kluczy
+ -Dziedziczenie
+ -Aplikacja będzie tworzyć skrypt do utworzenia bazy danych MySQL i Oracle
+ 
+Tematy prac inżynierskich:
+ -Internetowy organizer weselny
+ -Projekt smart system do odstraszania ptaków 
