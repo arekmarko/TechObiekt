@@ -1,0 +1,1 @@
+Podczas 2 etapu projektu udało się zainstalować środowisko do programowania w języku C++ z biblioteką Qt.
