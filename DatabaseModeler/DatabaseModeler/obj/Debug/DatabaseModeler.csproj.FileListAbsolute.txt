@@ -1,0 +1,13 @@
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\bin\Debug\DatabaseModeler.exe.config
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\bin\Debug\DatabaseModeler.exe
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\bin\Debug\DatabaseModeler.pdb
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.csprojAssemblyReference.cache
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.Properties.Resources.resources
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.csproj.GenerateResource.cache
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.csproj.CoreCompileInputs.cache
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.exe
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.pdb
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.CreateTable.resources
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.textArea.resources
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.Form1.resources
+C:\Users\arekm\source\repos\DatabaseModeler\DatabaseModeler\obj\Debug\DatabaseModeler.addRelationship.resources
