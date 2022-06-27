@@ -630,7 +630,28 @@ namespace DatabaseModeler
 ";
                     tmpSkrypt += "ADD FOREIGN KEY (" + relation.childTable.Rows[0][0] + ") REFERENCES " + relation.parentTable.TableName + "(" + relation.parentTable.Rows[0][0] + @");
 ";
-                } else
+                }
+                else if (relation.relationName == "manytomany")
+                {
+                    tmpSkrypt += "CREATE TABLE " + relation.parentTable.TableName + "_" + relation.childTable.TableName + @"
+                    ";
+                    tmpSkrypt += relation.parentTable.TableName + relation.parentTable.Rows[0][0] + " " + relation.parentTable.Rows[0][1] + @" PRIMARY KEY,
+                    ";
+                    tmpSkrypt += relation.childTable.TableName + relation.childTable.Rows[0][0] + " " + relation.childTable.Rows[0][1] + @" PRIMARY KEY
+);
+";
+
+
+                    tmpSkrypt += "ALTER TABLE " + relation.parentTable.TableName + "_" + relation.childTable.TableName + @"
+";
+                    tmpSkrypt += "ADD FOREIGN KEY (" + relation.parentTable.TableName + relation.parentTable.Rows[0][0] + ") REFERENCES " + relation.parentTable.TableName + "(" + relation.parentTable.Rows[0][0] + @");
+";
+                    tmpSkrypt += "ALTER TABLE " + relation.parentTable.TableName + "_" + relation.childTable.TableName + @"
+";
+                    tmpSkrypt += "ADD FOREIGN KEY (" + relation.childTable.TableName + relation.childTable.Rows[0][0] + ") REFERENCES " + relation.childTable.TableName + "(" + relation.childTable.Rows[0][0] + @");
+";
+                }
+                else
                 {
                 tmpSkrypt += "ALTER TABLE " + relation.childTable.TableName + @"
 ";
